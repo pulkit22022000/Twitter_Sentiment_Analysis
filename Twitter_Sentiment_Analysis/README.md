@@ -1,3 +1,10 @@
-An NLP model to predict if a tweet is positive or negative. The libraries used in the project are pandas,numpy,seaborn,matpplotlib,nltk,wordcloud and sklearn.
+What is Sentiment Analysis?
+Sentiment Analysis is the process of ‘computationally’ determining whether a piece of writing is positive, negative or neutral. It’s also known as opinion mining, deriving the opinion or attitude of a speaker.
 
-The Naive Bayes classifier model is used to do the predictions.
+Why sentiment analysis?
+-> Business: In marketing field companies use it to develop their strategies, to understand customers’ feelings towards products or brand, how people respond to their campaigns or product launches and why consumers don’t buy some
+products.
+-> Politics: In political field, it is used to keep track of political view, to detect consistency and inconsistency between statements and actions at the government level. It can be used to predict election results as well!
+-> Public Actions: Sentiment analysis also is used to monitor and analyse social phenomena, for the spotting of potentially dangerous situations and determining the general mood of the blogosphere.
+
+In this hands-on project, we trained a Naive Bayes classifier to predict sentiment from thousands of Twitter tweets. The process could be done automatically without having humans manually review thousands of tweets and customer reviews.
